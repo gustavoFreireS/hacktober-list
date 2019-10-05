@@ -15,3 +15,4 @@
 * Mathematician - https://github.com/Mazuh/mathematician
 * Python & Flask - https://github.com/jerimumhs/transparencia-api/
 * Python & Telegram Bot - https://github.com/jerimumhs/JerimumBot
+* Simple problems for HacktoberFest - https://github.com/rathoresrikant/HacktoberFestContribute
