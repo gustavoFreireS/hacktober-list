@@ -18,5 +18,8 @@
 * Mathematician - https://github.com/Mazuh/mathematician
 * Python & Flask - https://github.com/jerimumhs/transparencia-api/
 * Python & Telegram Bot - https://github.com/jerimumhs/JerimumBot
+* https://up-for-grabs.net/#/
+* http://issuehub.io/
+* https://github.com/mungell/awesome-for-beginners
 * PHP PSR Translation - https://github.com/phprn/psr
 * URI - Potigol - https://github.com/potigol/URI-Potigol
