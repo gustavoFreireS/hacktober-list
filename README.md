@@ -1,7 +1,10 @@
+
+# @gustavoFreireS https://github.com/gustavoFreireS/hacktober-list/edit/master/README.md
 # bit.ly/hacktober-natal
 # https://github.com/gustavoFreireS/hacktober-list
 ## hacktober-list
 
+# hacktober-list
 
 * text editor with react - https://github.com/gustavoFreireS/react-text-editor/
 * Robot python/js - https://github.com/gustavoFreireS/robotNatalJs
@@ -18,3 +21,5 @@
 * https://up-for-grabs.net/#/
 * http://issuehub.io/
 * https://github.com/mungell/awesome-for-beginners
+* PHP PSR Translation - https://github.com/phprn/psr
+* URI - Potigol - https://github.com/potigol/URI-Potigol
