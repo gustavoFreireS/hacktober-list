@@ -10,5 +10,7 @@
 * Fast Express - https://github.com/davidcostadev/fastexpress
 * With money - https://github.com/withmoney/withmoney-mobile
 * Timer for coding dojos - https://github.com/gustavoFreireS/electron-dojo-timer
+* Lhama Phone - https://github.com/Mazuh/lhama-phone
+* Mathematician - https://github.com/Mazuh/mathematician
 * Python & Flask - https://github.com/jerimumhs/transparencia-api/
 * Python & Telegram Bot - https://github.com/jerimumhs/JerimumBot
