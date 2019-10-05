@@ -1,10 +1,12 @@
 
-# @gustavoFreireS https://github.com/gustavoFreireS/hacktober-list/edit/master/README.md
-# bit.ly/hacktober-natal
+# @gustavoFreireS 
+# https://bit.ly/hacktober-natal
 # https://github.com/gustavoFreireS/hacktober-list
-## hacktober-list
+-------
 
 # hacktober-list
+
+Quer adicionar um projeto legal? [Editar](https://github.com/gustavoFreireS/hacktober-list/edit/master/README.md)
 
 | Repositório                                            | Titulo                                  | Tecnologia/Linguagem |
 |--------------------------------------------------------|-----------------------------------------|----------------------|
