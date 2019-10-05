@@ -29,4 +29,4 @@ Quer adicionar um projeto legal? [Editar](https://github.com/gustavoFreireS/hack
 | https://github.com/potigol/URI-Potigol                    | Potigol                                 | Potigol              |
 | https://github.com/rathoresrikant/HacktoberFestContribute | Simple problems for HacktoberFest       | -                    |
 | https://github.com/artursantiago/cadastro-de-alunos       | Formulário de Cadastro de ALunos        | HTML                 |
-
+| https://github.com/MunGell/awesome-for-beginners          | Repositórios com todas as linguagens    | -                    |
