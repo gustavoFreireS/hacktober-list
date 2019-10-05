@@ -21,7 +21,7 @@ Quer adicionar um projeto legal? [Editar](https://github.com/gustavoFreireS/hack
 | https://github.com/gustavoFreireS/electron-dojo-timer     | Timer for coding dojos                  | electron/javascript  |
 | https://github.com/Mazuh/lhama-phone                      | Lhama Phone                             | javascript           |
 | https://github.com/Mazuh/mathematician                    | Mathematician                           | -                    |
-| https://github.com/jerimumhs/transparencia-api/           | Transpar encia                          | flast/python         |
+| https://github.com/jerimumhs/transparencia-api/           | Transpar encia                          | flask/python         |
 | https://github.com/jerimumhs/JerimumBot                   | Jerimum T elegram Bot                   | python               |
 | https://up-for-grabs.net/                                 | -                                       | -                    |
 | http://issuehub.io/                                       | -                                       | -                    |
