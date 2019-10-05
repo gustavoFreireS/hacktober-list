@@ -27,4 +27,6 @@ Quer adicionar um projeto legal? [Editar](https://github.com/gustavoFreireS/hack
 | http://issuehub.io/                                       | -                                       | -                    |
 | https://github.com/phprn/psr                              | PHP                                     | php                  |
 | https://github.com/potigol/URI-Potigol                    | Potigol                                 | Potigol              |
-| https://github.com/rathoresrikant/HacktoberFestContribute | Simple problems for HacktoberFest       |                      |
+| https://github.com/rathoresrikant/HacktoberFestContribute | Simple problems for HacktoberFest       | -                    |
+| https://github.com/artursantiago/cadastro-de-alunos       | Formulário de Cadastro de ALunos        | HTML                 |
+
