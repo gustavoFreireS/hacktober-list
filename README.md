@@ -6,20 +6,23 @@
 
 # hacktober-list
 
-* text editor with react - https://github.com/gustavoFreireS/react-text-editor/
-* Robot python/js - https://github.com/gustavoFreireS/robotNatalJs
-* Projeto base Fulltack - https://github.com/totabraz/projeto_base_fullstack
-* Sticky programing nodes with javascript - https://github.com/ja0n/sticky
-* React smart tabs -  https://github.com/EvoluxBR/react-smart-tabs
-* Fast Express - https://github.com/davidcostadev/fastexpress
-* With money - https://github.com/withmoney/withmoney-mobile
-* Timer for coding dojos - https://github.com/gustavoFreireS/electron-dojo-timer
-* Lhama Phone - https://github.com/Mazuh/lhama-phone
-* Mathematician - https://github.com/Mazuh/mathematician
-* Python & Flask - https://github.com/jerimumhs/transparencia-api/
-* Python & Telegram Bot - https://github.com/jerimumhs/JerimumBot
-* https://up-for-grabs.net/#/
-* http://issuehub.io/
-* https://github.com/mungell/awesome-for-beginners
-* PHP PSR Translation - https://github.com/phprn/psr
-* URI - Potigol - https://github.com/potigol/URI-Potigol
+| Repositório                                            | Titulo                                  | Tecnologia/Linguagem |
+|--------------------------------------------------------|-----------------------------------------|----------------------|
+| https://github.com/gustavoFreireS/react-text-editor/   | text editor with react                  |  react/javascript    |
+| https://github.com/gustavoFreireS/robotNatalJs         | Robot python                            |  python              |
+| https://github.com/totabraz/projeto_base_fullstack     | Projeto base Fulltack                   |  -                   |
+| https://github.com/ja0n/sticky                         | Sticky programing nodes with javascript |  javascript          |
+| https://github.com/EvoluxBR/react-smart-tabs           | React smart tabs                        |  react/javascript    |
+| https://github.com/davidcostadev/fastexpress           | Fast Express                            |  nodejs/javascript   |
+| https://github.com/withmoney/withmoney-api             | WithMoney API                           |  nodejs/javascript   |
+| https://github.com/withmoney/withmoney-web             | WithMoney Web                           |  react/javascript    |
+| https://github.com/gustavoFreireS/electron-dojo-timer  | Timer for coding dojos                  |  electron/javascript |
+| https://github.com/Mazuh/lhama-phone                   | Lhama Phone                             |  javascript          |
+| https://github.com/Mazuh/mathematician                 | Mathematician                           |  -                   |
+| https://github.com/jerimumhs/transparencia-api/        | Transpar encia                          |  flast/python        |
+| https://github.com/jerimumhs/JerimumBot                | Jerimum T elegram Bot                   |  python              |
+| https://up-for-grabs.net/                              | -                                       |  -                   |
+| http://issuehub.io/                                    | -                                       |  -                   |
+| https://github.com/phprn/psr                           | PHP                                     |  php                 |
+| https://github.com/potigol/URI-Potigol                 | Potigol                                 |  Potigol             |
+
