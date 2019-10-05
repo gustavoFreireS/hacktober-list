@@ -1,4 +1,8 @@
+
 # @gustavoFreireS https://github.com/gustavoFreireS/hacktober-list/edit/master/README.md
+# bit.ly/hacktober-natal
+# https://github.com/gustavoFreireS/hacktober-list
+## hacktober-list
 
 # hacktober-list
 
