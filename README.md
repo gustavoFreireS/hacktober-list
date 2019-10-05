@@ -1,5 +1,5 @@
-# @gustavoFreireS https://github.com/gustavoFreireS/hacktober-list/edit/master/README.md
-# hacktober-list
+# https://github.com/gustavoFreireS/hacktober-list
+## hacktober-list
 
 
 * text editor with react - https://github.com/gustavoFreireS/react-text-editor/
