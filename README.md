@@ -35,3 +35,6 @@ Quer adicionar um projeto legal? [Editar](https://github.com/gustavoFreireS/hack
 | https://github.com/OWASP/D4N155                           | Ferramenta para criar wordlists         | shell/python         |
 | https://github.com/decred/dcrd                            | Blockchain da Decred                    | go                   |
 | https://github.com/decred/dcrlnd                          | Lightning Network da Decred             | go                   |
+| https://github.com/enzodanjour/jobait                     | dashboard para projetos em geral        | HTML                 |
+| https://github.com/MunGell/awesome-for-beginners          | Repositórios com todas as linguagens    | -                    |
+| https://github.com/fleveque/awesome-awesomes              | Lista de bibliotecas e frameworks       | Diversas             |
