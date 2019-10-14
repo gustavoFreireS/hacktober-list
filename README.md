@@ -29,6 +29,12 @@ Quer adicionar um projeto legal? [Editar](https://github.com/gustavoFreireS/hack
 | https://github.com/potigol/URI-Potigol                    | Potigol                                 | Potigol              |
 | https://github.com/rathoresrikant/HacktoberFestContribute | Simple problems for HacktoberFest       | -                    |
 | https://github.com/artursantiago/cadastro-de-alunos       | Formulário de Cadastro de ALunos        | HTML                 |
+| https://github.com/OWASP/Top10/issues                     | Lista de vulnerabilidades               | Documentação         |
+| https://github.com/zaproxy/zaproxy/                       | Proxy de teste de vulnerabilidades      | java/HTML            |
+| https://github.com/bkimminich/juice-shop                  | Aplicação vulneravel para estudos       | nodejs/javascript    |
+| https://github.com/OWASP/D4N155                           | Ferramenta para criar wordlists         | shell/python         |
+| https://github.com/decred/dcrd                            | Blockchain da Decred                    | go                   |
+| https://github.com/decred/dcrlnd                          | Lightning Network da Decred             | go                   |
 | https://github.com/enzodanjour/jobait                     | dashboard para projetos em geral        | HTML                 |
 | https://github.com/MunGell/awesome-for-beginners          | Repositórios com todas as linguagens    | -                    |
 | https://github.com/fleveque/awesome-awesomes              | Lista de bibliotecas e frameworks       | Diversas             |
